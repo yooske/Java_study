@@ -1,6 +1,6 @@
 package chapter8;
 
-public class Code8_Hero {
+public class Hero {
 	String name;
 	int hp;
 
