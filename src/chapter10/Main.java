@@ -3,7 +3,7 @@ package chapter10;
 public class Main {
 	public static void main(String[] args) {
 		SuperHero sh = new SuperHero();
-		Matango m = new Matango();
+		Matango m = new Matango('A');
 		sh.fly();
 		sh.run();
 		sh.slip();
